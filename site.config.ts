@@ -15,7 +15,7 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  email: 'macs_he07@proton.me',
+  // email: 'macs_he07@proton.me',
   
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
