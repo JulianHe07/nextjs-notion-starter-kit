@@ -8,9 +8,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: ' Julian’s Blog’,
+  name: 'Julian’s Blog',
   domain: 'https://www.notion.so/Blog-026edf07736d4ab5ac74d1ba5a8dd009',
-  author: ‘Julian’,
+  author: 'Julian',
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
